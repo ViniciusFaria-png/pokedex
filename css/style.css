@@ -8,11 +8,18 @@
                                                 
 }
 
-body {
+.body_dia {
     text-align: center;
     background: linear-gradient(to bottom, #6ab7f5, #fff);
     min-height: 100vh;
 }
+
+.body_noite {
+    text-align: center;
+    background: linear-gradient(to bottom ,#6495ED ,#253159 , #02072F);
+    min-height: 100vh;
+}
+
 
 main {
     display: inline-block;
